@@ -1,0 +1,7 @@
+Necesitas Python 3 (python.org, marca "Add to PATH"). No hay que instalar nada mas.
+
+1) .svg de la X6 -> .sav: arrastra el .svg sobre ARRASTRA_SVG_aqui.bat
+2) .sa1 de 64 KB -> .sav de 128 KB: arrastra el .sa1 sobre ARRASTRA_SA1_aqui.bat
+3) .sav -> .svg: en cmd:  sav_a_svg.bat plantilla.svg save.sav
+
+Solo Pokemon Rubi/Zafiro (y hacks basados en ellos). Rojo Fuego/Esmeralda: pendiente.
